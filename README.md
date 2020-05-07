@@ -7,9 +7,9 @@
 
 ## about
 
-This project is created to show basic knowledge about 2D and 3D animation in matplotlib library and to show its application in maths/science.
+This project is created to show basic knowledge about *2D and 3D animation* in *matplotlib library* and to show its application in *maths/science*.
 
-Hear, in for_fun_only folder(Directory) some crazy thing is available you can also execute that using bellow Execution process.
+Hear, in *for_fun_only folder(Directory)* some crazy thing is available you can also execute that using bellow [Execution process](##Execution-Process).
 
 ## Basic introduction
 
