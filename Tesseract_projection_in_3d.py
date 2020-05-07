@@ -119,7 +119,7 @@ def animate(val):
         # projected matrix
         projected[:,i] = PXYZ @ rotated[:,i]
 
-    #set the size of tasserect
+    #set the size of tesseract
     projected = 8* projected
 
     # set points in graph
