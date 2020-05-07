@@ -36,7 +36,7 @@ This simulation shows that by changing the speed and angle of Rotation how proje
 - Numpy library
 - Text Editor(PyCharm if possible)
 - Knowledge about [Tesseract](https://en.wikipedia.org/wiki/Tesseract)
-- Knowledge about *operation on matrix*
+- Knowledge about [operation on matrix](https://en.wikipedia.org/wiki/Matrix_(mathematics)#Basic_operations)
 - Knowledge about [rotation matrix](https://en.wikipedia.org/wiki/Rotation_matrix) and [projection matrix] (https://en.wikipedia.org/wiki/Projection_matrix)
 
 ## Execution Process
