@@ -55,5 +55,5 @@ This simulation shows that by changing the *speed* and *angle* of Rotation how p
 First try to understand [cube_projection_in_2D.py](cube_projection_in_2D.py) then go for [Tesseract_projection_in_3d.py](Tesseract_projection_in_3d.py).
  
 ## Contact details
-Please contact me on *patel.darshil.454@ldce.ac.in* regarding any issues and/or suggestions
+Please contact me on *div.mul.add.sub@gmail.com* regarding any issues and/or suggestions
 
